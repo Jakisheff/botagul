@@ -1,0 +1,9 @@
+# Secrets
+.env
+
+# Go binaries
+/bot
+*.exe
+
+# OS files
+.DS_Store
